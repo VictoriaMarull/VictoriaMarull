@@ -1,7 +1,7 @@
-## Hey, nice to see you!
+## Hey, nice to see you! I'm Victoria Marull
 I’m currently studying data science in Austral University👩🏻‍💻
-
-
+I'm from Rosario, Argentina 🇦🇷
+ Programming Skills: Python and R
 <!--
 **VictoriaMarull/VictoriaMarull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
