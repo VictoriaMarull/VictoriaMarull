@@ -8,7 +8,7 @@
 🛠️ Languages & Tools:
 Programming Skills: Python 🐍 | R 📊
 Libraries/Frameworks: Pandas, NumPy.
-Other Tools: SQL, Jupyter Notebooks, Git, GitHub
+Other Tools:  Jupyter Notebooks, Git, GitHub
 
 💬 Let’s Connect!
 If you want to chat about data science, programming, or just want to say hi, feel free to reach out! 😊
